@@ -1,0 +1,55 @@
+/********** HOME PAGE**********/
+/*
+ * Users Section
+*/
+
+.home-page .users ul {
+    list-style: none;
+}
+
+.home-page
+.user-image {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 50px;
+    border-radius: 50%;
+}
+
+.home-page
+.user-name {
+    font-size: 15px;
+
+}
+
+.home-page
+.users
+a {
+    text-decoration: none;
+}
+
+.home-page
+.users
+.user-list-item {
+    position: relative;
+}
+
+.home-page
+.user-status-icon {
+    position: absolute;
+    bottom: 0;
+    right: -10px;
+    color: lightgray;
+}
+
+
+/*
+ * Chat section
+ */
+
+.chat-section
+.chat-body {
+    min-height: 500px;
+}
